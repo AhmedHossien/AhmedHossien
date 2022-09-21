@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmed Hussein,
 - 👀 I’m interested in programming languages,
-- 🌱 I’m currently learning Flutter,
-- 💞️ I’m looking to collaborate on writing flutter projects.
+- 🌱 I’m currently writing flutter projects.
 
 <!---
 AhmedHossien/AhmedHossien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
