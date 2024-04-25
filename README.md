@@ -11,6 +11,12 @@ Carto Delivery.
 Dalelak.
 Himam.
 [Himam Driver](https://play.google.com/store/apps/details?id=com.engaz.himam_driver)
+[Sumo](https://play.google.com/store/apps/details?id=co.tecfy.task_management)
+[Tecfy Attendance](https://play.google.com/store/apps/details?id=co.tecfy.emp)
+[Food Express Egypt](https://play.google.com/store/apps/details?id=com.foodexpresseg.customer)
+[Modrsy](https://modrsy.com/)
+[EarthCo.](https://earth-7b102.web.app/)
+[Magic Market](https://magicmarket4u.web.app/)
 Jibler Driver.
 Jibler Partner.
 Jibler User.
