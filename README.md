@@ -6,10 +6,14 @@ Pulls from active knowledge of current technology landscape to promote best prac
 ## I have worked on the following projects :
 
 - [Amaly](https://github.com/AhmedHossien/AhmedHossien/tree/f61523e8befcab07a4dfb13219509e3ff7da3015/Pictures/Amaly)
-- [Amaly Doctor](https://github.com/AhmedHossien/AhmedHossien/tree/c850bac69d9a64f45029f9a8b6ebd1e4d6a55b8a/Pictures/Amaly%20Doctor)   <table>
+- [Amaly Doctor](https://github.com/AhmedHossien/AhmedHossien/tree/c850bac69d9a64f45029f9a8b6ebd1e4d6a55b8a/Pictures/Amaly%20Doctor)
+
+<table>
   <tr>
-    <td><img src="Pictures/Amaly Doctor/Screenshot_20240425-190730.jpg" width=270 height=480></td>
-    <td><img src="Pictures\Amaly Doctor\Screenshot_20240425-190806.jpg" width=270 height=480></td>
+    <td><img src="Pictures/Amaly Doctor/Screenshot_20240425-190730.jpg" width=270 height=270></td>
+    <td><img src="Pictures/Amaly Doctor/Screenshot_20240425-190806.jpg" width=270 height=270></td>
+    <td><img src="Pictures/Amaly Doctor/Screenshot_20240425-190825.jpg" width=270 height=270></td>
+    <td><img src="Pictures/Amaly Doctor/Screenshot_20240425-190939.jpg" width=270 height=270></td>
   </tr>
  </table>
  
