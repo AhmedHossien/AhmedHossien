@@ -38,15 +38,6 @@ Pulls from active knowledge of current technology landscape to promote best prac
 - [Carto Delivery]
 - [Dalelak](https://play.google.com/store/apps/details?id=com.dalilak.dalilak_app)
 - [EarthCo.](https://earth-7b102.web.app/)
-
-<table>
-  <tr>
-    <td><img src="Pictures/EarthCo/Screenshot_20240425-190537.jpg" width=270 height=480></td>
-    <td><img src="Pictures/EarthCo/Screenshot_20240425-190548.jpg" width=270 height=480></td>
-    <td><img src="Pictures/EarthCo/Screenshot_20240425-190554.jpg" width=270 height=480></td>
-  </tr>
- </table>
-
 - [Food Express Egypt](https://play.google.com/store/apps/details?id=com.foodexpresseg.customer)
 - [Himam User](Pictures/Himam%20user)
 
@@ -64,7 +55,16 @@ Pulls from active knowledge of current technology landscape to promote best prac
 - [Jibler User]
 - [Magic Market](https://magicmarket4u.web.app/)
 - [Modrsy](https://modrsy.com/)
-- [MyPlanner]
+- [MyPlanner](Pictures/My%20Planner)
+
+<table>
+  <tr>
+    <td><img src="Pictures/My Planner/Screenshot_20240508-131200.jpg" width=270 height=480></td>
+    <td><img src="Pictures/My Planner/Screenshot_20240508-131300.jpg" width=270 height=480></td>
+    <td><img src="Pictures/My Planner/Screenshot_20240508-131338.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 - [Speedana Driver](https://play.google.com/store/apps/details?id=jibler.driver.jiblerdriver)
 - [Speedana User](https://play.google.com/store/apps/details?id=com.engazTech.speedana)
 - [Sumo](https://play.google.com/store/apps/details?id=co.tecfy.task_management)
