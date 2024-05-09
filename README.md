@@ -51,8 +51,8 @@ Pulls from active knowledge of current technology landscape to promote best prac
 
 - [Himam Driver](https://play.google.com/store/apps/details?id=com.engaz.himam_driver)
 - [Jibler Driver](https://play.google.com/store/apps/details?id=jibler.driver.jiblerdriver)
-- Jibler Partner
-- Jibler User
+- [Jibler Partner](https://apps.apple.com/ng/app/jibler-seller/id1611979213)
+- [Jibler](https://apps.apple.com/ng/app/jibler/id1587994631)
 - [Magic Market](https://magicmarket4u.web.app/)
 - [Modrsy](https://modrsy.com/)
 - [MyPlanner](Pictures/My%20Planner)
