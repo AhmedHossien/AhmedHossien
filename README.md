@@ -25,7 +25,7 @@ Pulls from active knowledge of current technology landscape to promote best prac
   </tr>
  </table>
  
-- [Carto](Pictures/Carto)
+- [Carto](Pictures/Carto) .. Request from a Palestinian Arab client
 
 <table>
   <tr>
@@ -35,7 +35,7 @@ Pulls from active knowledge of current technology landscape to promote best prac
   </tr>
  </table>
 
-- [Carto Delivery]
+- [Carto Delivery] .. Request from a Palestinian Arab client
 - [Dalelak](https://play.google.com/store/apps/details?id=com.dalilak.dalilak_app)
 - [EarthCo.](https://earth-7b102.web.app/)
 - [Food Express Egypt](https://play.google.com/store/apps/details?id=com.foodexpresseg.customer)
@@ -50,9 +50,9 @@ Pulls from active knowledge of current technology landscape to promote best prac
  </table>
 
 - [Himam Driver](https://play.google.com/store/apps/details?id=com.engaz.himam_driver)
-- [Jibler Driver]
-- [Jibler Partner]
-- [Jibler User]
+- [Jibler Driver](https://play.google.com/store/apps/details?id=jibler.driver.jiblerdriver)
+- Jibler Partner
+- Jibler User
 - [Magic Market](https://magicmarket4u.web.app/)
 - [Modrsy](https://modrsy.com/)
 - [MyPlanner](Pictures/My%20Planner)
@@ -65,7 +65,7 @@ Pulls from active knowledge of current technology landscape to promote best prac
   </tr>
  </table>
 
-- [Speedana Driver](https://play.google.com/store/apps/details?id=jibler.driver.jiblerdriver)
+- Speedana Driver
 - [Speedana User](https://play.google.com/store/apps/details?id=com.engazTech.speedana)
 - [Sumo](https://play.google.com/store/apps/details?id=co.tecfy.task_management)
 - [Tecfy Attendance](https://play.google.com/store/apps/details?id=co.tecfy.emp)
